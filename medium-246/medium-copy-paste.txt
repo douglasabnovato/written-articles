@@ -1,0 +1,1098 @@
+ 
+a newsletter que você deve ler
+Aprender excel
+Preciso aperfeiçoar minhas habilidades com excel para conseguir resolver algumas tarefas no trabalho e organizar algumas rotinas.
+Jun 30, 2023
+ 
+Aprender excel
+Como se preparar para as certificações CPA-10, CPA-20 e CEA?
+Na busca de carreiras legais, atuar em agências bancárias pede certificações. Por isso, pesquisando sobre cursos e bolsas de instituições…
+Jun 30, 2023
+Como se preparar para as certificações CPA-10, CPA-20 e CEA?
+O universo de programação
+A minha intensão é citar algumas fontes de conteúdos para leituras, para implementação e para integração com outros profissionais.
+Jun 6, 2023
+1
+O universo de programação
+IA no futuro próximo
+A IA terá impacto social para as pessoas e empresas no futuro próximo. Partindo dessa afirmação, acredito ser interessante pesquisar o que…
+Mar 29, 2023
+IA no futuro próximo
+entender o ciclo de vida do componente em react
+Entendo que saber o ciclo de vida é essencial para quem quer se tornar um bom desenvolvedor pois com isso podemos otimizar as aplicações…
+Mar 7, 2023
+entender o ciclo de vida do componente em react
+como usar o storybook?
+Em uma das vagas que estou fazendo o processo seletivo, tem um requisito que é o storybook. Então, fui pesquisar para saber o que é…
+Mar 7, 2023
+3
+como usar o storybook?
+porque usar pré-processador css?
+Sempre me questiono quando surge novidades de ferramentas se estão aumentando o peso da minha mochila ou se realmente vão contribuir para o…
+Mar 6, 2023
+1
+porque usar pré-processador css?
+entender testes no frontend
+Para elevar as habilidades de desenvolvedor, adicionar testes na rotina de criar suas aplicações é um passo importante para o seu nível de…
+Mar 6, 2023
+1
+entender testes no frontend
+Entendendo API Rest
+Um desenvolvedor javascript e react se depara com tarefas que exigem conhecimento em API Rest. Diante disso, pesquisei e resumi definições…
+Mar 6, 2023
+1
+Entendendo API Rest
+uma transformação digital
+Alguns editais de cursos e de vagas em instituições inovadoras tem listado a transformação digital como item de aprendizado ou para…
+Feb 27, 2023
+1
+uma transformação digital
+um pouco de javascript
+Vou abordar alguns pontos teóricos do javascript para fortalecer nossas habilidades de desenvolvedor.
+Feb 27, 2023
+5
+um pouco de javascript
+Quais cursos de tecnologia posso fazer?
+Pensando em construir uma carreira de programador, formar em um curso de graduação de tecnologia é uma opção interessante para completar…
+Feb 16, 2023
+Quais cursos de tecnologia posso fazer?
+avançar na programação
+Pesquisei alguns tópicos para cumprir em tarefas e adquirir habilidades da programação, também reforçar alguns temas para saber com mais…
+Jan 7, 2023
+50
+avançar na programação
+do zero a dev júnior
+Um amigo me enviou uma mensagem no Instagram que está decidido a migrar de carreira, sair da carreira de direito de propriedade intelectual…
+Jan 6, 2023
+10
+do zero a dev júnior
+ser um bom dev
+Depois de já ter feito alguns programas e sites vejo que preciso aperfeiçoar as habilidades técnicas e habilidades comportamentais. Então…
+Jan 6, 2023
+41
+ser um bom dev
+iniciar um projeto reactjs com typescript
+Iniciando um projeto reactjs com typescript e utilizarei styled component para estilizar.
+Dec 8, 2022
+4
+iniciar um projeto reactjs com typescript
+elevar o state
+Entender o gerenciamento de state do react dará muito poder no desenvolvimento das aplicações, principalmente para quem está no início do…
+Dec 5, 2022
+4
+elevar o state
+Os níveis de um programador
+Nos últimos dois anos o mundo da programação está vivendo maravilhas na sua audiência e ofertas de vagas, empresas oferecendo lugares…
+Nov 29, 2022
+5
+Os níveis de um programador
+Personalizar o favicon do meu site
+Como criar um favicon personalizado para o meu site. O tema desse texto surgiu da tarefa de criar um favicon original para o site que…
+Oct 11, 2022
+Personalizar o favicon do meu site
+o que aprender no curso da Cod3r
+Encontrei um curso de react e redux na udemy da Cod3r e fui ler atentamente a ementa. Acredito que tem um conteúdo bem organizado e que…
+Sep 8, 2022
+o que aprender no curso da Cod3r
+aprender ser dev
+Revisando alguns temas que preciso reforçar para colaborar na construção de soluções das minhas tarefas, encontrei pontos para aperfeiçoar…
+Aug 18, 2022
+2
+1
+aprender ser dev
+como aprender a programar do zero?
+Vamos organizar as tarefas e construir uma rotina de aprender a aprender. Nesse artigo iremos abordar assuntos para quem vai iniciar como…
+Aug 11, 2022
+como aprender a programar do zero?
+aprender flexbox e css grid
+Aprender flexbox e css grid com conteúdos somente teóricos pode dificultar para quem está no início. Por isso, pesquisei alguns jogos e…
+Aug 7, 2022
+1
+aprender flexbox e css grid
+dominar html semântico
+Conhecer as principais tags semânticas da HTML5, marcações que agregam mais significado ao HTML ao prover uma ligação entre o conteúdo e a…
+Aug 7, 2022
+1
+dominar html semântico
+acessibilidade na aplicação web
+Preciso revisar minhas aplicações para torná-las mais acessíveis com html, css e javascript. Meu objetivo é iniciar por estratégicas mais…
+Aug 7, 2022
+acessibilidade na aplicação web
+preferências de light e dark do usuário
+Quero aplicar o estilo padrão de modo escuro de forma eficiente na minha aplicação. Pesquisar maneira de persistir as preferências do…
+Aug 7, 2022
+1
+preferências de light e dark do usuário
+entender e usar regex com javascript
+Utilizar regex em aplicações frontend para tratar strings em formulários e entender como usar e como criar para atender nossas necessidades…
+Aug 7, 2022
+1
+entender e usar regex com javascript
+rel=noopener para performance e segurança
+O cuidado com a performance da aplicação e a segurança podem ser melhoradas com o uso do rel=noopener. Vamos entender essa propriedade.
+Aug 7, 2022
+rel=noopener para performance e segurança
+entender o json com javascript
+Quero entender como trabalhar com json com javascript para consumir api e alimentar o frontend de uma aplicação. Vou partir do conteúdo do…
+Aug 7, 2022
+entender o json com javascript
+entender a proporção de tela com aspect-ratio
+A propriedade CSS aspect-ratiopermite criar caixas que mantêm dimensões proporcionais onde o heighte widthde uma caixa é calculado…
+Aug 7, 2022
+entender a proporção de tela com aspect-ratio
+aprender CSS Grid Layout
+Encontrei um link muito interessante para fazermos projetos para aprender sobre css grid e também para consultar durante a criação de…
+Aug 7, 2022
+aprender CSS Grid Layout
+como ser responsivo
+Desenvolver aplicações web de forma responsiva mas explorando ao máxima as estratégias do próprio css sem adicionar outras maneiras e…
+Aug 5, 2022
+como ser responsivo
+lista de APIs para praticar front
+Pesquisando APIs para utilizar em aplicações para praticar a criação de frontend dinamicamente e requisições para essas APIs.
+Aug 5, 2022
+6
+lista de APIs para praticar front
+tornar-se desenvolvedor frontend
+Saber por onde começar, construir uma rotina, como aperfeiçoar habilidades conforme trabalha, o que estudar. A ideia desse artigo é…
+Aug 5, 2022
+tornar-se desenvolvedor frontend
+O projeto na versão lts, rsrs está no link a seguir.
+Aug 3, 2022
+entender o grid template columns
+Na construção de templates de forma inteligente, o desafio do programador frontend é alcançar uma performance do design e da usabilidade…
+Jul 28, 2022
+entender o grid template columns
+como resolver esse teste de código
+Nesse artigo, quero entender como fazer esses testes de código apresentados em etapas de processos seletivos para vagas de dev que também…
+Jul 28, 2022
+como resolver esse teste de código
+questões técnicas de entrevista para dev
+Quero reunir questões para validar o domínio do conteúdo estudado e praticado. Além de treinar para conversas técnicas sobre o ecossistema…
+Jul 27, 2022
+questões técnicas de entrevista para dev
+preparar para entrevista técnica de desenvolvedor
+Candidatei-me em uma vaga para programador, passei das etapas iniciais e fui chamado para entrevista técnica! E agora? Como me dar bem…
+Jun 9, 2022
+preparar para entrevista técnica de desenvolvedor
+como foi o bootcamp da Driven?
+Aconteceu o bootcamp da Driven, o Desafio Programando na Prática, onde três ideias de projetos foram propostos para serem desenvolvidos e…
+Apr 26, 2022
+como foi o bootcamp da Driven?
+aprender e treinar flexbox com froggy
+Um game que parece infantil mas é muito poderoso no aprendizado dos fundamentos de posicionamentos no css. Aprender a utilizar as…
+Apr 19, 2022
+aprender e treinar flexbox com froggy
+ainda não é hora de media query
+Durante a criação do frontend das aplicações podemos nos render a utilizar media query cedo demais, sem explorar tudo o que o css tem a…
+Apr 19, 2022
+10
+ainda não é hora de media query
+atributo media da tag link
+Utilizar o css externo a partir de um outro arquivo fora do html é padrão desde os fundamentos. Conforme aperfeiçoamos as práticas, novos…
+Apr 12, 2022
+atributo media da tag link
+um layout flexível
+Construir um layout responsivo a partir do design do smartphone, mobile first, é uma tarefa que exige atenção aos detalhes das unidades de…
+Apr 12, 2022
+um layout flexível
+teste de competência de frontend
+No Linkedin tem alguns testes de competência conforme as skills informadas. Acredito ser interessante os testes de competência das…
+Apr 7, 2022
+teste de competência de frontend
+tecnologia no frontend
+Na busca por vagas de frontend além das linguagens e skills, encontramos alguns outros itens que formam os requisitos para as principais…
+Apr 6, 2022
+tecnologia no frontend
+a meta viewport
+Treinando transformações de elementos para aperfeiçoar a responsividade de sites já criados focamos nas modificações dos arquivos mas…
+Apr 5, 2022
+a meta viewport
+questões técnicas de entrevista para dev
+Saber fazer e saber conversar sobre assuntos técnicos nos dá confiança na entrevista para uma vaga de desenvolvedor. Pesquisando, encontrei…
+Apr 2, 2022
+questões técnicas de entrevista para dev
+questões técnicas de entrevista para dev
+Saber fazer e saber conversar sobre assuntos técnicos nos dá confiança na entrevista para uma vaga de desenvolvedor. Pesquisando, encontrei…
+Apr 2, 2022
+questões técnicas de entrevista para dev
+questões técnicas de entrevista para dev
+Saber fazer e saber conversar sobre assuntos técnicos nos dá confiança na entrevista para uma vaga de desenvolvedor. Pesquisando, encontrei…
+Apr 2, 2022
+questões técnicas de entrevista para dev
+entender “mobile first”
+Estou desenvolvendo uma aplicação e iniciei pelo frontend e para termos um melhor resultado na experiência do usuário, foi sugerido seguir…
+Apr 1, 2022
+entender “mobile first”
+consumir uma API e manipular JSON com javascript
+O problema aqui é trabalhar com os dados da nossa aplicação. Ora para consumir uma API e ora para manipular JSON com javascript e então…
+Mar 31, 2022
+1
+consumir uma API e manipular JSON com javascript
+addEventListener e onClick no botão em javascript
+O meu problema é ao clicar em um botão chama uma função que consume uma API e cria um elemento html para exibir algumas informações…
+Mar 28, 2022
+addEventListener e onClick no botão em javascript
+obter o dia da semana em javascript
+Vamos exibir o dia da semana utilizando javascript. Isso tem diversas utilidades conforme a necessidade do problema que estiver resolvendo…
+Mar 28, 2022
+obter o dia da semana em javascript
+carreira de dev em 2022
+Minha rotina de estudos, meu trabalho e testes práticos será que deve ajustar alguma coisa para ir melhor? Diante disso, fui pesquisar o…
+Mar 28, 2022
+carreira de dev em 2022
+Preparação para entrevista
+Durante o processo seletivo, após passar daquelas etapas online, chegamos finalmente na entrevista. E não pode ser uma aposta. Então, fui…
+Mar 28, 2022
+Preparação para entrevista
+Como cuidar da minha carreira?
+O que posso fazer para ter uma carreira em progresso, assumindo desafios cada fez mais realizadores, como entender a forma de procurar uma…
+Mar 27, 2022
+Como cuidar da minha carreira?
+Como gerir minhas tarefas de dev?
+Vamos organizar uma tarefa de modelo para replicarmos nas demais, seguindo o método smart.
+Mar 17, 2022
+1
+Como gerir minhas tarefas de dev?
+Atalho para comentar código no VSCode
+Durante a rotina de programar, percebemos que quanto mais agilidade adquirirmos para realizar as atividades que surgem várias vezes no…
+Feb 22, 2022
+Atalho para comentar código no VSCode
+Entender a descrição de uma vaga de dev
+Vamos analisar uma vaga de desenvolvedor front-end. Quero entender o que está sendo pedido e aonde posso me qualificar para atender cada um…
+Feb 20, 2022
+Entender a descrição de uma vaga de dev
+Primeiro passo para Aprender a Programar
+Os três primeiros itens para aprender a programar e aonde poder testar os códigos conforme a rotina de verdade quando estiver na sua vaga…
+Feb 20, 2022
+2
+Primeiro passo para Aprender a Programar
+o Basecamp da 42 São Paulo
+Quero deixar registrado o que estou pensando e a sensação que ficou após uma rotina intensa de entregas, reuniões e projetos na etapa do…
+Feb 20, 2022
+o Basecamp da 42 São Paulo
+Aprender com a Trilhar Fundamentar da Rocketseat
+Essa é a segunda trilha com os fundamentos e conceitos disponibilizada pela Rocketseat. Nessa já temos contato a assuntos mais práticos e…
+Dec 28, 2021
+Aprender com a Trilhar Fundamentar da Rocketseat
+Aprender com a Trilha Conectar da Rocketseat
+Revisando alguns conceitos e fundamentos, revisitei o portal da Rocketseat para me atualizar sobre alguns assuntos. Nesse artigo, vou…
+Dec 28, 2021
+12
+Aprender com a Trilha Conectar da Rocketseat
+Conquistar minha vaga de desenvolvedor júnior
+Pesquisando vagas para desenvolvedor frontend web júnior, encontrei diversos processos em aberto. Nesse artigo, vou listar os pontos em…
+Dec 28, 2021
+Conquistar minha vaga de desenvolvedor júnior
+Promise com async / await ou com fetch / then?
+Conforme as aplicações vão ganhando complexidade, vamos nos deparando com situações que precisamos seguir com o programa funcionando mesmo…
+Dec 28, 2021
+Promise com async / await ou com fetch / then?
+como fazer o try/catch?
+A estrutura try…catch deve ser utilizada em operações que podem falhar para o tratar erros no JavaScript. Quando a falha acontecer, a…
+Dec 24, 2021
+como fazer o try/catch?
+se preparar para testes de excel
+Preciso resolver algumas questões de excel em um processo seletivo e para isso, pesquisei alguns conteúdos que me fizessem aprender de…
+Oct 31, 2021
+se preparar para testes de excel
+css no reactjs
+Durante o desenvolvimento de uma aplicação, construí um trecho de código de estilização, logo no início, o que permitiu visualizar o…
+Oct 27, 2021
+1
+css no reactjs
+usar regex em javascript
+Uma breve introdução do que é e porque saber usar, e vamos logo a entender como montar e como usar as regex em javascript. Dessa vez eu…
+Oct 20, 2021
+usar regex em javascript
+entender Expressão Regular — Regex em Javascript
+Vamos entender de uma vez por todas o objetivo da expressão regular na resolução de problemas na rotina de desenvolver códigos e como…
+Oct 20, 2021
+13
+entender Expressão Regular — Regex em Javascript
+join em javascript
+O termo join é muito famoso no SQL para relacionar tabelas. No javascript sua função tem, de certa forma, semelhança.
+Oct 19, 2021
+join em javascript
+reverter uma string em javascript
+O javascript possui um método que reverte a ordem de um string.
+Oct 19, 2021
+1
+reverter uma string em javascript
+manipular string split no javascript
+A função do método split no javascript na manipulação de string.
+Oct 19, 2021
+1
+o loop map no javascript
+Com o avanço das linguagens, algumas tarefas que eram construídas manualmente ganharam aliados interessantes. E um deles é o método map.
+Oct 19, 2021
+1
+o loop map no javascript
+criar botão com js puro
+O objetivo é entender lógica de programação com javascript puro na criação de botão.
+Oct 18, 2021
+14
+criar botão com js puro
+uma rotina para aprender a programar
+A ideia é organizar uma rotina para aprender a programar e citar plataformas que podem contribuir com o conteúdo em cada uma das etapas.
+Oct 18, 2021
+4
+uma rotina para aprender a programar
+como me preparar para testes de programação ?
+Seja para processos seletivos ou para ter mais habilidade e raciocínio na hora de solucionar problemas do dia a dia de programação, é…
+Oct 16, 2021
+6
+como me preparar para testes de programação ?
+loop for no javascript
+Entender como funciona o loop for e avaliar quais as melhores situações de utilizar essa estratégia para solucionar nossa tarefa.
+Oct 16, 2021
+2
+loop for no javascript
+como funciona forEach no javascript?
+Vamos entender o funcionamento do método forEach no javascript e como é solucionar os problemas com essa resolução.
+Oct 16, 2021
+1
+como funciona forEach no javascript?
+tornar o SQL mais seguro
+Conforme nosso projeto vai crescendo nos deparamos com situações críticas. E quando o cenário é banco de dados, o assunto fica ainda mais…
+Oct 15, 2021
+2
+tornar o SQL mais seguro
+praticar update, alter e delete em sql
+Vamos fazer uma tarefa que envolve os comandos update, alter e delete do sql.
+Oct 15, 2021
+1
+praticar update, alter e delete em sql
+var let const em javascript
+Entender alguns detalhes do comportamento de uma variável ao ser criada conforme a forma que a definimos.
+Oct 15, 2021
+1
+var let const em javascript
+a diferença entre var const let no javascript
+Pode parecer simples mas entender o significado, a diferença entre cada um desses elementos será determinante no resultado do código. Vamos…
+Oct 15, 2021
+2
+a diferença entre var const let no javascript
+nunca DELETE linhas em BD
+Para não perder dados, alguns apps utilizam uma estratégia interessante no banco de dados para a função de deletar.
+Oct 14, 2021
+3
+nunca DELETE linhas em BD
+SQL para atualizar BD
+Nesse artigo, vamos levantar algumas situações que fazem o banco de dados ser tão importante.
+Oct 14, 2021
+2
+SQL para atualizar BD
+o que é um Arrow Function?
+Esse tipo de construir funções surgiu no ES6, ecmascript 2015. E desde então, tem ganhado cada vez mais repercussão devido a objetividade e…
+Oct 14, 2021
+3
+o que é um Arrow Function?
+O que estou praticando no khan academy?
+No módulo de SQL da trilha de Programação, estudei SQL e seus fundamentos e pratiquei com atividades que simulam situações do ambiente de…
+Oct 13, 2021
+5
+O que estou praticando no khan academy?
+o que é web component?
+Nesse artigo, vamos ver alguns detalhes dessa tecnologia que permite o desenvolvedor front-end na criação de componentes customizados.
+Oct 13, 2021
+1
+o que é web component?
+Trabalhar home office
+Conforme a situação atual de quarentena e o objetivo de desenvolver uma renda extra, vou desenhar um modelo para trabalhar via internet de…
+Oct 5, 2021
+9
+Trabalhar home office
+o seu Fluxo de Trabalho no Git
+Como gerenciar o ambiente de desenvolvimento dos meus projetos no Github com Git usando as branches de forma produtiva e com clareza nos…
+Oct 5, 2021
+6
+o seu Fluxo de Trabalho no Git
+o Autoconhecimento Na Prática da Fundação Estudar
+“Bom dia. meu nome é. Me dedico a computação e meu sonho é conseguir desenhar uma trajetória profissional de orgulho e que me possibilite…
+Oct 4, 2021
+1
+o Autoconhecimento Na Prática da Fundação Estudar
+a Mentoria de Carreira — Cresça com o Google
+Quanto mais nos dedicamos a uma determinada carreira, percebemos que tão importante quanto executar as atribuições técnicas, ou até mais…
+Oct 4, 2021
+4
+a Mentoria de Carreira — Cresça com o Google
+manipular localstorage em react
+A motivação desse artigo foi a preocupação com as informações exibidas em localstorage ou sessionstorage.
+Oct 4, 2021
+4
+manipular localstorage em react
+ter um trabalho GRATIFICANTE
+Primeiro de tudo, que me de orgulho em dizer o que faço e que eu o faça bem. Segundo ponto, é que o que eu faço transforme/colabore a vida…
+Oct 4, 2021
+1
+ter um trabalho GRATIFICANTE
+principais comandos do Git
+Conhecer os principais comandos do git e o poder que essa ferramenta de versionamento tem e nos permite fazer nos nossos projetos.
+Oct 1, 2021
+5
+principais comandos do Git
+dominar o Gitflow
+Gitflow é uma estratégia para organizar o fluxo de gestão de código na rotina de desenvolver uma aplicação.
+Oct 1, 2021
+16
+dominar o Gitflow
+Html e Table
+Nesse artigo, o objetivo é demonstrar os elementos principais do html e também tags semânticas com uma tabela complexa abordando inclusive…
+Sep 30, 2021
+3
+Html e Table
+Comunicação entre componentes em Reactjs
+Um dos principais fundamentos da programação em reactjs é a comunicação entre os componentes. As possibilidades de passar informações entre…
+Sep 29, 2021
+2
+Comunicação entre componentes em Reactjs
+Comandos SQL
+Bora conhecer, entender e executar os principais comandos SQL com uma base de dados real para demonstrar como trabalhar com manipulação de…
+Sep 29, 2021
+3
+Comandos SQL
+comando LEFT OUTER JOIN do SQL
+Gerir o banco de dados é uma tarefa árdua mas também muito interessante. Vamos entender o comando left outer join do sql com um exemplo…
+Sep 28, 2021
+7
+comando LEFT OUTER JOIN do SQL
+Criar um servidor com Express
+Construir uma aplicação web e ter um servidor para tratar de manter a aplicação rodando, exibindo, e fazendo com que o fluxo lógico esteja…
+Sep 27, 2021
+2
+Criar um servidor com Express
+Tags semânticas da estrutura do HTML
+O crescimento de aplicações web acelerou o fortalecimento de ferramentas que dessem condições para novos poderes. O html lançou tags…
+Sep 27, 2021
+15
+Tags semânticas da estrutura do HTML
+Emitir e ouvir eventos em Node
+Conhecer na prática, alguns dos principais eventos nativos do nodejs. Vamos demonstrar como problemas em grande aplicações, como…
+Sep 27, 2021
+4
+Emitir e ouvir eventos em Node
+Quais as funções timers em nodejs?
+Na construção de aplicações nos deparamos com situações que temos que controlar ações a serem realizadas e ou verificadas de tempos e…
+Sep 27, 2021
+Quais as funções timers em nodejs?
+Como usar processos no NodeJs?
+O objetivo aqui é entender os principais processos do nodejs e a forma de nos comunicar enquanto estiver rodando através de algumas funções…
+Sep 25, 2021
+5
+Como usar processos no NodeJs?
+O que é NPM?
+Na rotina de desenvolvedor, uma das tarefas mais realizadas é a de controlar versão de dependências do projeto. É uma tarefa árdua mas que…
+Sep 24, 2021
+1
+O que é NPM?
+Como escrever um módulo em Nodejs?
+Criar os primeiros códigos em NodeJS para treinar conceitos e fundamentos.
+Sep 23, 2021
+2
+Como escrever um módulo em Nodejs?
+Perguntas e Respostas de ReactJS
+Nos estudos de programação da linguagem React e todo o seu universo, percebi que seria interessante sair um pouco dos códigos e revisar o…
+Sep 18, 2021
+Perguntas e Respostas de ReactJS
+Como hospedar no Github Pages ?
+Após terminar de desenvolver uma aplicação frontend web, nada mais interessante do que ver ela funcionando e enviar para os amigos…
+Jul 23, 2021
+Como hospedar no Github Pages ?
+O que aprendi com o NLW#5 ?
+O objetivo é contar alguns pontos que mais contribuíram para me dar mais energia na dedicação em fazer treinamentos de tecnologias para…
+Apr 25, 2021
+O que aprendi com o NLW#5 ?
+Como edito os readme.md dos meus repositórios no Github ?
+O readme de um repositório no github tem o objetivo de esclarecer as principais curiosidades sobre aquele projeto. Por isso, saber quais…
+Jan 30, 2021
+3
+Como edito os readme.md dos meus repositórios no Github ?
+Como turbinar a aplicação Reactjs ?
+Para conseguirmos criar aplicações completas e com performances, precisaremos de ferramentas para construir os detalhes das nossas…
+Jan 29, 2021
+Como turbinar a aplicação Reactjs ?
+Como iniciar em Reactjs ?
+Nesse artigo, reuni alguns textos para introduzirmos metodologias, ferramentas, bibliotecas e mais assuntos importantíssimos…
+Jan 28, 2021
+Como iniciar em Reactjs ?
+Algumas ideias de projeto para praticar
+Pesquisei no Google algumas ideias de projeto para criarmos e praticar os aprendizados dos estudos de javascript e reacjtjs. As descrições…
+Jan 2, 2021
+Algumas ideias de projeto para praticar
+Quais os testes de raciocínio lógico treinar ?
+Programas de processo seletivo e algumas provas para determinadas vagas tem questões de raciocíneo lógico como disciplina cobrada ou como…
+Jan 2, 2021
+6
+Quais os testes de raciocínio lógico treinar ?
+O que aprender a programar ?
+A ideia desse artigo é detalhar algumas tarefas para desenvolver a partir de poucos detalhes e assim, aperfeiçoar habilidades de criação…
+Jan 2, 2021
+O que aprender a programar ?
+O que aprender de ReactJS ?
+Iniciar os estudos para programar em React pelos fundamentos é importante para fazermos os questionamentos quando iniciarmos a prática. No…
+Jan 2, 2021
+O que aprender de ReactJS ?
+Como ficar bom nisso ?
+Conhecer um assunto não é a mesma coisa que dominar um assunto, e muito menos ser referência em um tema. Então, como ficar bom em algo …
+Jan 2, 2021
+Como ficar bom nisso ?
+O que é ter bons resultados ?
+Não há outro momento mais propício para elaborarmos nossas metas que não na virada de ano novo. Mas entra ano e sai ano e algumas metas…
+Jan 1, 2021
+O que é ter bons resultados ?
+Como aprender inglês ?
+Gostaria de sugerir uma forma de aprender inglês, principalmente para quem está partindo do iniciante com o segundo idioma. O objetivo…
+Jan 1, 2021
+Como aprender inglês ?
+Porque você deve fazer a Mentoria Tech ?
+Nesse artigo, vou registrar alguns aprendizados com uma mentoria para tirar do papel uma comunidade e fazer dar certo para gerar…
+Jan 1, 2021
+Porque você deve fazer a Mentoria Tech ?
+O que é Manifesto Ágil ?
+Abordar o manifesto ágil como um guia para gestão de projetos no ambiente de tecnologia. Nesse artigo, irei citar as principais definições…
+Jan 1, 2021
+O que é Manifesto Ágil ?
+Quais são os fundamentos aprender para programar ?
+Nesse artigo, meu objetivo é listar os títulos de temas para introduzir nos estudos de programação. Assim, passar logo para o próximo…
+Jan 1, 2021
+Quais são os fundamentos aprender para programar ?
+Como escrever meus textos ?
+Quero aperfeiçoar uma rotina de escrita de textos e em um segundo momento, profissionalizar a escrita e trabalhar como redator. Mas…
+Dec 25, 2020
+1
+Como escrever meus textos ?
+Como trabalhar de freela no GetNinjas ?
+Escrever artigos se tornou um hobby muito importante na minha rotina. Agora, gostaria aperfeiçoar as técnicas de escrita e para isso, nada…
+Dec 23, 2020
+Como trabalhar de freela no GetNinjas ?
+Como atuar como freelancer ?
+Nesse artigo, estão alguns pontos que pesquisei para iniciar prestar alguns serviços como freelancer a partir das habilidades que já…
+Dec 22, 2020
+Como atuar como freelancer ?
+Como trabalhar de freelancer no Workana ?
+Quero aprender como funciona o Workana para trabalhar como freelancer. O objetivo é encontrar projetos ideais para eu fazer, de forma a…
+Dec 22, 2020
+Como trabalhar de freelancer no Workana ?
+Qual o resultado da combinação a arquitetura flux + o redux + o reactjs ?
+O gerenciamento do estado em uma aplicação reactjs é realizado com a ferramenta redux e abordaremos a escolha de seguir a arquitetura flux…
+Nov 14, 2020
+Qual o resultado da combinação a arquitetura flux + o redux + o reactjs ?
+O que construo com o Redux ?
+Ser programador em ReactJS é dominar algumas tecnologias, o escolhido da vez é o redux. Nesse artigo, conheceremos alguns detalhes do…
+Nov 14, 2020
+O que construo com o Redux ?
+Qual a importância de uma Mentoria para um dev em busca da primeira vaga ?
+As tecnologias sugeridas para serem pesquisadas abrem os estudos. Pesquisar no google e na documentação das ferramentas e então, elaborar…
+Nov 12, 2020
+1
+Qual a importância de uma Mentoria para um dev em busca da primeira vaga ?
+Quais informações saber para uma entrevista ?
+Durante o processo seletivo, as etapas online e os testes tanto de habilidades técnicas quanto os comportamentais são realizados com uma…
+Nov 7, 2020
+50
+Quais informações saber para uma entrevista ?
+Como gravar o meu vídeo de apresentação ?
+Conquistar a tão sonhada vaga é um grande momento e resultado de dedicação para superar diversas etapas e uma delas é fazer uma…
+Nov 7, 2020
+Como gravar o meu vídeo de apresentação ?
+Como contar minha história até chegar aqui ?
+Uma das atividades mais importantes em processos seletivos é o famoso storytelling do momento. Fazendo algumas atividades, reuni alguns…
+Nov 2, 2020
+Como contar minha história até chegar aqui ?
+Live Coding da Comunidade Empodera Tech
+Uma Comunidade para mulheres, que atua na implementação de iniciativas que visem à equidade de gênero, aumentando substancialmente a…
+Nov 2, 2020
+Live Coding da Comunidade Empodera Tech
+O que você queria ser quando crescer ?
+Depois de muitos tropeços, erros e frustrações me vejo ainda com objetivo e metas sólidas a respeito da carreira, despertou curiosidade…
+Nov 2, 2020
+O que você queria ser quando crescer ?
+O que é Github Gist ?
+O Gist é um compartilhador de pequenos trechos de código.
+Oct 30, 2020
+5
+O que é Github Gist ?
+Mentoria de carreira dev
+No início da carreira de desenvolvedor, a empolgação por avançar, acabamos por nos colocarmos em vários treinamentos e projetos de uma só…
+Sep 6, 2020
+12
+Mentoria de carreira dev
+A linguagem de programação C
+A linguagem de programação C senão é mais famosa entre as fundamentais da atual geração de computação está entre elas. Programar em C é um…
+Aug 27, 2020
+1
+A linguagem de programação C
+Um livro de Algoritmos e Estrutura de Dados
+O objetivo é dominar os conceitos e fundamentos de algoritmos e estrutura de dados na computação, e isso se aplica a qualquer cenário…
+Aug 27, 2020
+10
+Um livro de Algoritmos e Estrutura de Dados
+Como aprendi lógica ?
+Uma das primeiras disciplinas do curso de computação é lógica. E foi me apresentado o livro “Lógica — Método Semiótico Estruturado” de…
+Aug 27, 2020
+1
+2
+Como aprendi lógica ?
+O que tem no curso Técnico de Informática ?
+O curso de informática ministrado no Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais — Campus Juiz de Fora…
+Aug 27, 2020
+O que tem no curso Técnico de Informática ?
+O que aprendi na NWL#2 ?
+Um evento de programação organizado pelo Rocketseat. Não menos surpreendente do que as outras edições de programas de tecnologia, dessa…
+Aug 19, 2020
+10
+O que aprendi na NWL#2 ?
+Leitura de “dicas para encontrar o propósito na carreira”
+Durante o treinamento Decisão de Carreira, Na Prática, da Fundação Estudar, foram indicadas algumas leituras para complementar o…
+Jul 13, 2020
+Leitura de “dicas para encontrar o propósito na carreira”
+Como produzir e compartilhar conteúdo digital ?
+Programação, Carreira e Produtividade como conseguir conciliar a produção de conteúdo a partir dos conteúdos que preciso estudar, fixar e…
+Jul 11, 2020
+Como produzir e compartilhar conteúdo digital ?
+Quais etapas para criar um site ?
+A tarefa de construir um site com qualidade e objetivo não é a das mais fáceis. O objetivo é encontrar o processo desse desenvolvimento…
+Jul 10, 2020
+Quais etapas para criar um site ?
+Qual a rotina de um programador ?
+Nesse artigo, a intensão é pesquisar sobre o processo de construção de um site por um programador, mais especificamente, um desenvolvedor…
+Jul 10, 2020
+3
+Qual a rotina de um programador ?
+Como conquistar uma vaga em meio a pandemia do COVID-19 ?
+Conseguir uma vaga como desenvolvedor em meio a pandemia do COVID-19 é preciso além das habilidades técnicas da vaga, mais que nunca…
+Jul 8, 2020
+Como conquistar uma vaga em meio a pandemia do COVID-19 ?
+Como escrever um bom roteiro para meu vídeo?
+Diante da tarefa de escrever artigos sobre programação e tecnologia, meu objetivo é aprender escrever melhor mas agora, roteiro para…
+Jul 6, 2020
+1
+Como escrever um bom roteiro para meu vídeo?
+Como fazer a sua vídeo entrevista ?
+Em um dos processos seletivos que participei, a empresa adotou a tecnologia como ferramenta já no primeiro contato do processo seletivo. A…
+Jun 24, 2020
+Como fazer a sua vídeo entrevista ?
+O que é DB ?
+Nesse artigo, minha intensão é reunir algumas definições do universo de banco de dados, não obrigatoriamente em sequência lógica mas sim…
+Jun 19, 2020
+1
+O que é DB ?
+Como é o Santander Coders Java 2020 by Digital House ?
+Um programa de bolsas para uma formação para programação. Nesse artigo, minha intensão é detalhar as informações divulgadas do programa…
+Jun 19, 2020
+4
+Como é o Santander Coders Java 2020 by Digital House ?
+Fazer minha primeira análise de dados
+Quero materializar os conhecimentos adquiridos em um curso de banco de dados em SQL, realizando a análise de alguma massa de dados. Para…
+Jun 19, 2020
+2
+Fazer minha primeira análise de dados
+O que é AIESEC ?
+Em 2010, fui aprovado no processo seletivo do programa de trainee da AIESEC em Juiz de Fora. Tinha acabado de entrar para a universidade…
+Jun 18, 2020
+O que é AIESEC ?
+O que eu NÃO gosto de fazer ?
+Dando continuidade as atividades de autoconhecimento dos treinamentos da Fundação Estudar — Na Prática, esse artigo traz um pouco das…
+Jun 18, 2020
+3
+O que eu NÃO gosto de fazer ?
+O que SOU referência ?
+O objetivo desse artigo é a realização de atividades de autoconhecimento para esclarecer minha personalidade e assim, facilitar as tomadas…
+Jun 17, 2020
+O que SOU referência ?
+Como me preparar para o processo de seleção para desenvolvedor ?
+Iniciei na carreira no mundo digital, e mais recentemente, me tornar um desenvolvedor. Para conquistar minha primeira vaga como dev, fui…
+Jun 6, 2020
+5
+Como me preparar para o processo de seleção para desenvolvedor ?
+O que aprendi com a mentoria de carreira ?
+Diante da quantidade de possibilidades do mercado de carreira, das minhas habilidades e comportamentos, o caminho que estou seguindo e…
+May 22, 2020
+3
+O que aprendi com a mentoria de carreira ?
+Como trabalhar bem em home office ?
+A tecnologia reafirma seu poder em auxiliar o exercer de várias carreiras durante o trabalhar em home office. Saber qual ferramenta usar e…
+May 21, 2020
+Como trabalhar bem em home office ?
+Como fazer minha apresentação para o processo seletivo ?
+Quando questionado a falar sobre mim, tanto pessoalmente quanto em fazer um vídeo, me deparo com o desafio de ser objetivo mas também…
+May 21, 2020
+Como fazer minha  apresentação para o processo seletivo ?
+Como me preparar para o processo seletivo ?
+Nas descrições das vagas dos processos seletivos fica explicito o que será questionado e testado tecnicamente. Mas para as empresas com as…
+May 18, 2020
+58
+Como me preparar para o processo seletivo ?
+O que o programador Jr. precisa saber ?
+Vamos conhecer as skills para ser um desenvolvedor com potencial de crescimento e superar os desafios.
+May 16, 2020
+43
+1
+O que o programador Jr. precisa saber ?
+O que posso fazer com Scrum e Kanban e Design Thing ?
+Tutoriais de aplicações, treinamentos de linguagens de programação, mentorias de carreira, sessões de psicólogo, técnicas de escrita…
+May 16, 2020
+O que posso fazer com Scrum e Kanban e Design Thing ?
+Como treinar para um teste de lógica ?
+Entrando em programas de treinamentos de programação, me deparei com desafios de lógica e por isso, trouxe aqui os conteúdos que estou…
+May 15, 2020
+2
+Como treinar para um teste de lógica ?
+Aprendi com a mentoria para programador ?
+Na trajetória de aprendizagem para construir uma carreira como programador entendi que era a hora de aperfeiçoar a rotina, saber em que…
+May 8, 2020
+2
+Aprendi com a mentoria para programador ?
+A oficina da net
+Durante 16 meses escrevi artigos para um portal de tecnologia do Rio Grande do Sul. A experiência foi incrível. E nesse artigo vou trazer…
+Apr 22, 2020
+A oficina da net
+A 42 São Paulo na prática
+A 42 São Paulo trás um modelo de aprendizagem, criado na França pela École 42, voltado para o ensino de programação e o desenvolvimento da…
+Apr 19, 2020
+68
+1
+A 42 São Paulo na prática
+O que aprendi no CogniFit ?
+Realizar a avaliação inicial para comparar o estado das minhas habilidades cognitivas. Treinar e fortalecer as habilidades cognitivas…
+Apr 16, 2020
+O que aprendi no CogniFit ?
+Como treinar meu aprender ?
+Quero aprender mais rápido, quero aprender melhor, quero aprender com mais facilidade e mais qualidade. Para isso, entender como funciona…
+Apr 16, 2020
+Como treinar meu aprender ?
+Um contador de palavras e letras
+Muitas plataformas, redes sociais e provas exigem uma quantidade específica de palavras e ou letras. E nem sempre temos alguma aplicação…
+Apr 13, 2020
+Um contador de palavras e letras
+Onde se atualizar de notícias e recomendações sobre a pandemia de Coronavírus — COVID-19?
+Diante dessa pandemia de Coronavírus — COVID-19, o que o Brasil está fazendo, o que devo fazer, o que está acontecendo no mundo, quais…
+Mar 19, 2020
+7
+Onde se atualizar de notícias e recomendações sobre a pandemia de Coronavírus — COVID-19?
+Como conseguir uma vaga para Dev ?
+Depois de diversos artigos e estratégias colocadas em prática, erros, falhas, nãos, consegui uma vaga de dev. E agora ?
+Mar 19, 2020
+5
+Como conseguir uma vaga para Dev ?
+Um guia completo de React Native
+Meu primeiro artigo publicado na Geekhunter é sobre React Native. O que tem nesse artigo, qual foi minha ideia ao montá-lo dessa forma ?
+Mar 19, 2020
+Um guia completo de React Native
+O que aprendi nas entrevistas ?
+Após realizar alguns cursos em React estava confiante para entrevistas para desenvolvedor. Esses processos seletivos me ensinaram a…
+Mar 19, 2020
+O que aprendi nas entrevistas ?
+Como iniciar com VueJS ?
+Entrei para um projeto frontend web que está sendo desenvolvido em VueJS e por isso, preciso aprender essa tecnologia. Reuni alguns…
+Mar 19, 2020
+Como iniciar com VueJS ?
+Aonde publicar seu projeto frontend web ?
+Terminar meu projeto pessoal ou aquele projeto do treinamento que está fazendo, e agora aonde publicar para mostrar para todo mundo ? É…
+Mar 18, 2020
+4
+Aonde publicar seu projeto frontend web ?
+Como conseguir uma vaga com o Linkedin ?
+A maior rede social profissional Linkedin pode facilitar e muito, no momento de conseguir a vaga dos sonhos, mas o que preciso fazer para…
+Mar 16, 2020
+Como conseguir uma vaga com o Linkedin ?
+Qual minha rotina de estudo ?
+Aprender uma linguagem de programação ou uma metodologia não basta ler um livro, assistir um vídeo ou assistir aulas, também precisamos…
+Mar 16, 2020
+5
+Qual minha rotina de estudo ?
+Tudo que você precisa saber sobre React Native! | GeekBlog
+O desenvolvimento mobile está super aquecido e o Facebook não poderia ficar para trás com seu próprio framework. React Native é um…
+Mar 12, 2020
+Tudo que você precisa saber sobre React Native! | GeekBlog
+O que é Deploy ?
+Terminei meu projeto, em qual lugar ficará a aplicação ? O que preciso fazer para ter meu site funcionando ? Preciso seguir alguma…
+Feb 28, 2020
+26
+O que é Deploy ?
+O que estudar para aprender programar ?
+A intenção é organizar os próximos treinamentos que irei realizar com o objetivo de compor a rotina para alcançar a meta de aprender a…
+Feb 28, 2020
+O que estudar para aprender programar ?
+Um planejamento para os estudos
+Aprender programação hoje é o principal objetivo e por isso, após alguns meses de estudos, volto as pesquisas e organizo as ideias para…
+Feb 27, 2020
+2
+Um planejamento para os estudos
+Como iniciar os estudos em React
+Pesquisando sobre React encontramos diversos cursos, ferramentas, então, organizei as informações que encontrei com essas pesquisas e…
+Feb 27, 2020
+Como iniciar os estudos em React
+Quero aprender a programar
+Tornar-se um programador é o objetivo atual. Nesse artigo relato o que já fiz e qual o próximo passo. Esse objetivo atual é ter um cargo…
+Feb 27, 2020
+Quero aprender a programar
+O que é a metodologia Jornada do Cliente ?
+Uma metodologia que desenvolve tecnologia aplicada em negócios, com o objetivo de gerar vendas mais assertivas, a partir da experiência do…
+Feb 17, 2020
+O que é a metodologia Jornada do Cliente ?
+Como conseguir essa vaga ?
+Estive em São Paulo e além do ambiente urbano, saber para onde ir e como ir, também pesquisei algumas vagas para trabalhar e seguir…
+Feb 17, 2020
+Como conseguir essa vaga ?
+Ensinar programação para criança
+Quero ensinar programação para criança e para isso, preciso preparar uma aula para crianças e adolescentes, mas também para adultos que…
+Feb 14, 2020
+Ensinar programação para criança
+Como iniciar em React Native
+O objetivo é reunir algumas informações coletadas de uma breve pesquisa sobre a tecnologia React Native para tirar do zero e iniciar os…
+Feb 14, 2020
+Como iniciar em React Native
+Como construir uma boa reputação como desenvolvedor
+Iniciando como desenvolvedor, além de fazer treinamentos nas linguagens de programação e tecnologias, preciso explorar todas ferramentas…
+Feb 12, 2020
+Como construir uma boa reputação como desenvolvedor
+Como construir um portfólio de desenvolvedor
+Estou iniciando a carreira como desenvolvedor. Tenho uma conta no github com projetos e códigos de estudos. Mas gostaria de mais…
+Feb 12, 2020
+28
+Como construir um portfólio de desenvolvedor
+Como Usar o GIT Flow
+Inicialmente, aprendemos a funcionalidade do git, alguns comandos básicos e pronto. Mas como tirar proveito dessa ferramenta e…
+Feb 5, 2020
+3
+Como Usar o GIT Flow
+Como mudar de carreira ?
+Quero mudar de carreira. Não estou satisfeito com o meu dia a dia, e acredito que mudar de carreira será possível tornar o meu dia atual…
+Feb 3, 2020
+1
+Como mudar de carreira ?
+Git para colaborar em projeto no Github
+O desafio é iniciar o ambiente para desenvolver o frontend web de um projeto já criado com repositório remoto no github. Como configurar o…
+Jan 17, 2020
+Git para colaborar em projeto no Github
+Quero trabalhar remotamente
+“Trabalhar Remoto” o sonho de muitos dos estudantes dos cursos de tecnologia mas além de serviços e produtos de ti é possível trabalhar…
+Jan 14, 2020
+Quero trabalhar remotamente
+Uma lista de 100 ideias
+Esse artigo tem o objetivo de esvaziar a mente e compartilhar as ideias que tenho sobre criar projetos, fazer treinamentos ou qualquer…
+Jan 12, 2020
+Uma lista de 100 ideias
+React com Design
+Após um atropelamento, isso mesmo, escrever o artigo “Fazer um site bonito” foi um atropelamento, já que foi o primeiro contato com essas…
+Jan 12, 2020
+React com Design
+Como foi o Fullstack Lab 3.0 ?
+Em novembro de 2019, dias 04, 06 e 08, aconteceu o workshop Fullstack Lab. Esse laboratório dá o primeiro contato com a tecnologia ReactJS…
+Jan 12, 2020
+Como foi o Fullstack Lab 3.0 ?
+Auditando meu dia
+Em maio de 2019, para ser mais exato, dia 15, as 18:11, escrevi umas telas em power point para clarear aquele momento e nortear para quais…
+Jan 12, 2020
+Auditando meu dia
+Como foi o programa Santander Coders ?
+Como foi o programa Santander Coders ?
+Jan 11, 2020
+2
+1
+Como foi o programa Santander Coders ?
+Como foi o BizFest 2019 de Juiz de Fora ?
+Em Juiz de Fora, organizado pelo GBG Juiz de Fora, aconteceu em novembro o evento de inovação e empreendedorismo BizFest 2019. Trouxe…
+Jan 9, 2020
+Como foi o BizFest 2019 de Juiz de Fora ?
+Fazer um site bonito
+Preciso fazer uma page responsivo bonita e agora ? Como fazer uma página bonita ? Como meu site bonito ? Então um amigo responde …
+Dec 19, 2019
+Fazer um site bonito
+Uma aplicação para reportar BUGs
+Desenvolvido uma aplicação para reportar falhas e melhorias de um grande sistema. O objetivo é levantar o máximo de informações sobre o…
+Nov 14, 2019
+Uma aplicação para reportar BUGs
+Star Wars, toda a história via API
+Desenvolver um projeto frontend utilizando ReactJS foi o objetivo desse projeto. E para os resultados serem mais interessantes, pensamos…
+Nov 9, 2019
+1
+2
+Star Wars, toda a história via API
+As Startups queridinhas
+A inovação somada a tecnologia quando pensadas em solucionar nossos problemas resulta em negócios promissores que revolucionam seus…
+Nov 7, 2019
+As Startups queridinhas
+Javascript ES6, simplesmente, sem limites.
+Ecmascript 6, o Javascript com muitas novas funcionalidades. Esse projeto realiza algumas tarefas de renderização e CRUDs para tarefas…
+Nov 6, 2019
+Javascript ES6, simplesmente, sem limites.
+O poder do Javascript
+Esse projeto traz um demonstrativo do que é possível realizar com o Javascript. É possível gerar um imensidão de soluções simples e…
+Nov 5, 2019
+O poder do Javascript
+Uma API feita em Javascript, graças a NodeJS
+Criar uma API Rest utilizando Node JS, sendo assim, usando Javascript para desenvolver uma estrutura backend.
+Nov 4, 2019
+Uma API feita em Javascript, graças a NodeJS
+Huntweb, uma aplicação em ReactJS
+A aplicação Huntweb é desenvolvida em ReactJS, sendo assim uma versão web do projeto Hunt para visualizar uma biblioteca que exibe…
+Nov 1, 2019
+Huntweb, uma aplicação em ReactJS
+Hunt, um App com React Native
+O projeto Hunt tem como objetivo demonstrar na prática um pouco do que é possível fazer com a stack React Native. React Native é uma…
+Nov 1, 2019
+Hunt, um App com React Native
+Um Quiz App com HTML, CSS e JS
+O objetivo desse projeto é colocar em prática cursos de HTML, CSS e Javascript realizados na Udemy e W3schools em algo funcional. Para que…
+Oct 31, 2019
+8
+Um Quiz App com HTML, CSS e JS
+Sistemas Operacionais — O que é Deadlock?
+Escrevi um artigo para o Portal Oficina da Net em 29/05/2014, esse tema não é mais um daqueles que surfam ondas do momento, então, anos…
+Mar 25, 2019
+Sistemas Operacionais — O que é Deadlock?
+O que é Business Intelligence?
+Cada vez mais ter conhecimento para aperfeiçoar as tomadas de decisão tem sido determinante para empresas que oferecem serviços e produtos…
+Mar 30, 2017
+O que é Business Intelligence?
+O que faz um Analista de Requisitos?
+O Analista de Requisitos é a peça fundamental na criação do produto que se transformará no software. Transmite para a equipe de…
+Aug 1, 2016
+O que faz um Analista de Requisitos?
+O que é Empreendedorismo?
+Começamos pela definição de empreendedorismo. É o estudo dedicado ao desenvolvimento de competências e habilidades relacionadas à criação…
+Jul 4, 2016
+O que é Empreendedorismo?
+6 apps de notícias para Android
+O acesso a informação está facilitado pela popularização de smartphones e pela melhoria do fornecimento de acesso a internet sem fio. E…
+Feb 5, 2015
+6 apps de notícias para Android
+O que é Android?
+O avanço dos dispositivos móveis possibilitou sistemas operacionais mais avançados para nossos equipamentos. Estávamos mais familiarizados…
+Jan 6, 2015
+O que é Android?
+Governança da Internet Mundial
+Nesse artigo, mostrarei o cenário atual e os desafios de governança da internet para tratar os impasses do novo cenário da rede e garantir…
+Nov 5, 2014
+SEO — na prática — Parte 3
+Nesse artigo, continuaremos a tratar das boas práticas de SEO. Falaremos de como aproveitar o cache do navegador, de serviços de Content…
+Nov 3, 2014
+SEO — na prática — Parte 3
+Rede de Fibra tica INFOVIA Brasília: 100% nacional
+Uma estrutura de rede ótica de propriedade exclusiva do governo federal. O governo brasileiro tem a capacidade de conversar consigo…
+Nov 2, 2014
+Rede de Fibra tica INFOVIA Brasília: 100% nacional
+SEO na prática — Parte 2
+Nesse artigo, continuaremos a apresentar boas práticas de SEO on-Page que um desenvolvedor front-end pode usar para melhorar o…
+Oct 13, 2014
+SEO na prática — Parte 2
+SEO na prática — Parte 1
+Nesse artigo, apresentaremos boas práticas de SEO on-Page que um desenvolvedor front-end pode usar para melhorar o posicionamento de suas…
+Oct 3, 2014
+SEO na prática — Parte 1
+SEO na teoria — Parte 2
+Nesse artigo iremos continuar a monstrar o cenário em que as técnicas de SEO estão inseridas. Falaremos sobre o Ranking para determinar a…
+Sep 25, 2014
+SEO na teoria — Parte 2
+SEO na teoria — Parte 1
+Nesse artigo iremos mostrar o cenário em que as técnicas de SEO estão inseridas. Falaremos sobre sites e seus mecanismos de busca e como…
+Sep 18, 2014
+SEO na teoria — Parte 1
+Políticos: App possibilita avaliar o mandato de governantes
+Aplicativo “Políticos” torna acessível o cenário político na palma da mão. Desenvolvido com o objetivo de diminuir a distância da…
+Sep 11, 2014
+Políticos: App possibilita avaliar o mandato de governantes
+Apps que ajudam a parar de fumar
+A tecnologia para ajudar a mudar hábitos e parar de fumar. Em 2012, 15,6% da população brasileira fumavam — são 20 milhões de pessoas…
+Sep 4, 2014
+Apps que ajudam a parar de fumar
+TOP 5 dos Apps para aumentar sua produtividade
+Vivenciamos uma era de tecnologia, onde inovações são desenvolvidas para facilitar nosso cenário de vida. Em um ambiente cada vez mais…
+Aug 31, 2014
+TOP 5 dos Apps para aumentar sua produtividade
+A Hora do Estágio: um game online
+Nessa simulação, o jogador pode experimentar tomar decisões e avaliar as consequências no curto e longo prazo. Além de curtir o jogo…
+Aug 28, 2014
+A Hora do Estágio: um game online
+Angelina: o sistema que cria jogos sozinho
+Um sistema de Inteligência Artificial chamado Angelina que cria, sozinho, games. Antes de falarmos sobre um determinado sistema de…
+Aug 20, 2014
+Angelina: o sistema que cria jogos sozinho
+O que é SEO?
+A internet não é apenas uma inovação tecnológica, mas também um aparate tecnológico que alterou toda a forma de comportamento…
+Aug 7, 2014
+O que é SEO?
+Estação para carregar celular com energia solar
+Produto Inovador e Ecossustentável. Quiosque instalado em praça pública, cápta energia solar e possibilita recargas de smartphones em…
+Jul 24, 2014
+Estação para carregar celular com energia solar
+O que faz um Analista de Negócios?
+A importância do papel e do perfil desse profissional. E características da área de Análise de Negócios como conhecimentos técnicos…
+Jul 10, 2014
+O que faz um Analista de Negócios?
+O que é Google Adwords?
+Hoje, quando pensamos em pesquisar sobre algum assunto a maioria das pessoas recorrem à internet. E na internet, quando pensamos em…
+Jul 3, 2014
+O que é Google Adwords?
+Hackathon Google Developer Groups Juiz de Fora
+Nesse artigo veremos detalhes sobre o evento Hackathon que vem consolidando as comunidades de programação e dispertando a criatividade e a…
+Jun 26, 2014
+Hackathon Google Developer Groups Juiz de Fora
+Copa do Mundo Tecnológica
+Nesse artigo veremos sobre a tão comentada inovação Goal-line Tecnology (Tecnologia da Linha do Gol) que não deixa dúvidas sobre se a bola…
+Jun 19, 2014
+Copa do Mundo Tecnológica
+SwiftKey: O aplicativo mais inteligente para digitar!
+Nesse artigo veremos detalhes do funcionamento do aplicativo SwiftKey que salva os “padrões de escrita” do usuário para repetí-los. Isso…
+Jun 5, 2014
+SwiftKey: O aplicativo mais inteligente para digitar!
+Sistemas Operacionais — O que é Escalonamento de Processos?
+Nesse artigo, apresentarei detalhes sobre um Escalonador de Processos de um Sistema Operacional. Conceituaremos termos importantes de…
+May 22, 2014
+Sistemas Operacionais — O que é Escalonamento de Processos?
+O que é Governança de TI?
+Porque uma empresa deve implantar métodos de Governança de TI? Ao implantar Governança de TI, a empresa terá sucesso nos seus resultados…
+May 12, 2014
+3
+O que é Governança de TI?
+SPSS: o Software de Análise Estatística
+O IBM SPSS está no mercado há mais de 37 anos e utilizado em cenários diversos, como empresas, instituições acadêmicas, agências…
+May 10, 2014
+SPSS: o Software de Análise Estatística
+Guerra Tecnológica
+Desde o último setembro, a segurança da informação tornou-se foco do governo brasileiro. Denúncias de que o Brasil tenha sido vítima de…
+Apr 12, 2014
+Guerra Tecnológica
+2048, o jogo que é febre do momento
+O jogo é simples. Basta juntar os números até chegar ao número 2048.
+Mar 19, 2014
+2048, o jogo que é febre do momento
+Bitcoins — mais que uma simples moeda virtual
+Bitcoin é uma moeda virtual criada em 2009 e cercada por vários mistérios sobre seu desenvolvedor, a princípio o Satoshi Nakamoto…
+Mar 11, 2014
+Bitcoins — mais que uma simples moeda virtual
+O que é Memória ECC e como funciona?
+Todos os tipos de memória são passíveis de erros que podem ser causados por inúmeros fatores, desde variações na tensão da tomada que não…
+Feb 20, 2014
+O que é Memória ECC e como funciona?
+Por dentro do Google Pesquisa — Parte 3
+Um inimigo conhecido a tempos mas por meio de outras ferramentas de comunicações, o SPAM atrapalha não somente os resultados finais das…
+Feb 17, 2014
+Por dentro do Google Pesquisa — Parte 3
+Por dentro do Google Pesquisa — Parte 2
+O que acontece quando clico em pesquisar? Porque os links estão organizados desta ordem? Como sei que o que eu procurei é o que o Google…
+Feb 10, 2014
+Por dentro do Google Pesquisa — Parte 2
+Por dentro do Google Pesquisa — Parte 1
+O Google nasceu com uma missão ambiciosa, “Organizar a informação mundial e torná-la universalmente acessível e útil”. E até o momento…
+Feb 6, 2014
+Por dentro do Google Pesquisa — Parte 1
+O que é Steam Machine?
+Se você gosta de jogar no PC, já deve ter sentido que seria bom fazê-lo como fazem os jogadores de console, não é mesmo? A má posição da…
+Jan 15, 2014
+
+246
+O que é Steam Machine? 
+Se você gosta de jogar no PC, já deve ter sentido que seria bom fazê-lo como fazem os jogadores de console, não é mesmo? 
+Jan 15, 2014
+
+analisar no copilot
+pesquisar o tema atualmente
+reescrever no medium
+
+
+ 
